@@ -1,0 +1,16 @@
+.header{
+    font-style: italic;
+    display: flex;
+    justify-content: flex-end;
+margin: 0px 0px 0px 0px;
+}
+.menu{
+    margin: 1px;
+}
+.contact{
+    display: flex;
+    justify-content: flex-end;
+}
+img {  
+    float: left; 
+  } 
